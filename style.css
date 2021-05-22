@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-area {
+  border-top: 2px solid #19489e;
+  margin-bottom: -20px;
+}
+
+.main-area .logo h4 {
+  color: #302deb;
+  padding: 20px 0;
+  font-size: 35px;
+  display: inline-block;
+}
+
+.main-area .menu ul li {
+  display: inline-block;
+}
+
+.main-area .menu ul li a {
+  color: #757575;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 30px 15px;
+  margin-left: 30px;
+}
+
+.banner-section {
+  background-image: url(img/mili.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 180px 0;
+}
+
+.banner-section .banner-contant h5 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.banner-section .banner-contant h1 {
+  color: #fff;
+  font-size: 58px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.banner-section .banner-contant a {
+  padding: 15px 30px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 17px;
+  background: #356ed8;
+}
+
+.video-section {
+  padding: 70px 0;
+}
+
+.video-section .left-side img {
+  margin-right: 30px;
+}
+
+.video-section .right-side {
+  margin-left: 70px;
+}
+
+.contact-section {
+  padding: 40px 0;
+}
+
+.contact-section .contact-section-h {
+  text-align: center;
+  font-size: 23px;
+  margin-bottom: 40px;
+}
+
+.contact-section .contact-r .sum {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-section .contact-r a {
+  text-decoration: none;
+  border: 1px solid #000;
+  padding: 10px 20px;
+  color: #000;
+  border-radius: 5px;
+}
+
+.last {
+  background: #000;
+}
+
+.last p {
+  color: #fff;
+  line-height: 3em;
+  padding-top: 10px;
+}
+/*# sourceMappingURL=style.css.map */

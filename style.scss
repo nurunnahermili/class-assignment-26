@@ -1,0 +1,133 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.main-area{
+    border-top: 2px solid rgb(25, 72, 158);
+    margin-bottom: -20px;
+   
+    .logo h4{
+        color: rgb(48, 45, 235);
+        padding: 20px 0;
+        font-size: 35px;
+        display: inline-block;
+        .h1{
+
+        }
+    }
+
+  .menu{
+      ul{
+          li{
+              display: inline-block;
+              a{
+                  color: #757575;
+                  text-align: right;
+                  text-decoration: none;
+                  display: inline-block;
+                  font-size: 16px;
+                  padding: 30px 15px;
+                  margin-left: 30px;
+                  
+                }
+          }
+      }
+  }
+
+}
+
+// banner-section
+
+.banner-section{
+    background-image: url(img/mili.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 180px 0;
+  .banner-contant{
+     h5{
+      color:#fff;
+      font-size: 18px;
+      font-weight: 400;
+      margin-bottom: 30px;
+     }
+     h1{
+      color:#fff;
+      font-size: 58px;
+      font-weight: 500;
+      margin-bottom: 30px;
+      
+     }
+     a{
+      padding: 15px 30px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 17px;
+      background: rgb(53, 110, 216);
+
+      }
+  }
+}
+
+// video-section
+.video-section{
+    padding: 70px 0;
+    .left-side img{
+        margin-right: 30px;
+
+    }
+    .right-side{
+        margin-left: 70px;
+     
+
+        h3{
+
+        }
+        .p{
+
+        }
+    }
+}
+
+// contact-section
+
+.contact-section{
+    padding: 40px 0;
+    .contact-section-h{
+        text-align: center;
+        font-size: 23px;
+        margin-bottom: 40px;
+
+    }
+    .contact-l{
+
+    }
+    .contact-r{
+        .sum{
+            padding-left: 20px;
+            margin-bottom: 20px;
+
+        }
+        a{
+        text-decoration: none;
+        border: 1px solid #000;
+        padding: 10px 20px;
+        color: #000;
+        border-radius: 5px;
+        }
+    
+    }
+
+
+}
+// footer
+.last{
+    background: #000;
+   p{
+       color: #fff;
+       line-height: 3em;
+       padding-top: 10px;
+   }
+}
+
